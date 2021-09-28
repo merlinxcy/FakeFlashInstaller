@@ -15,15 +15,21 @@ fake flash installer write in  c#
 
 
 将二阶段木马隐写入图片文件中
+
  ![image](https://user-images.githubusercontent.com/18378246/135007525-3a05e5a9-1a61-458e-82fc-5fd08354d32e.png)
 
 
 生成加密的图片URL地址
+
+
  ![image](https://user-images.githubusercontent.com/18378246/135007535-a575b105-7bea-46fa-b3cb-80a724eab48f.png)
 
 
 替换URL 配置
+
+
  ![image](https://user-images.githubusercontent.com/18378246/135007544-6aadcd66-c23a-4f0c-9ef9-adcc30cd6ebb.png)
+
 
 
 
