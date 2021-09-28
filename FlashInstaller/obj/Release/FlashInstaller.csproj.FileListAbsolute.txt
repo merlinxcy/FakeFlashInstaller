@@ -1,0 +1,10 @@
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\bin\Release\flashplayerpp_install_cn.exe.config
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\bin\Release\flashplayerpp_install_cn.exe
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\bin\Release\flashplayerpp_install_cn.pdb
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\FlashInstaller.flashplayerpp_install_cn.resources
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\flashplayerpp_install_cn.Properties.Resources.resources
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\FlashInstaller.csproj.GenerateResource.cache
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\FlashInstaller.csproj.CoreCompileInputs.cache
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\flashplayerpp_install_cn.exe
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\flashplayerpp_install_cn.pdb
+C:\Users\xuchenyi-steven\source\repos\FlashInstaller\FlashInstaller\obj\Release\FlashInstaller.csprojAssemblyReference.cache
